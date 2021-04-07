@@ -89,6 +89,16 @@ A curation of cool system information fetches.
 # R
 [rsfetch](https://github.com/Phate6660/rsfetch) - Fast (~20ms execution time) and somewhat(?) minimal fetch program written in Rust.  
 
+# S
+<details>
+<summary>
+<a href="https://github.com/KittyKatt/screenFetch">screenFetch</a>
+- The Bash Screenshot Information Tool
+</summary>
+<img src="previews/screenFetch.png">
+</details>
+
+
 # U
 <details>
 <summary>
