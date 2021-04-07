@@ -101,3 +101,28 @@ A curation of cool system information fetches.
 # W
 [winfetch](https://github.com/lptstr/winfetch) - A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.  
 
+# Y
+<details>
+<summary>
+<a href="https://github.com/yrwq/yafetch">yafetch</a>
+- Yafetch is a minimal command line system information tool written in C and configured in Lua.
+</summary>
+<img src="previews/yafetch.png">
+</details>
+
+# Contribution
+You can help grow this list! Just create a simple issue to
+request a fetch (possibly yours) to be on this list.  
+
+The only requirements are fairly easy and clear instructions on the
+README, and to function properly (if not specific to an OS)
+Or you can choose to PR it.  
+
+You can also choose to add previews to fetches that don't have them.
+
+# License
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [TorchedSammy](https://github.com/TorchedSammy) has waived all copyright and related or neighboring rights to this work.
+
+See the [LICENSE](LICENSE) for more information.
