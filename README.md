@@ -98,7 +98,6 @@ A curation of cool system information fetches.
 <img src="previews/screenFetch.png">
 </details>
 
-
 # U
 <details>
 <summary>
