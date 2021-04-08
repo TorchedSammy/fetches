@@ -50,6 +50,15 @@ A curation of cool system information fetches.
 <img src="previews/bunnyfetch.sh.png">
 </details>
 
+# C
+<details>
+<summary>
+<a href="https://github.com/Dr-Noob/cpufetch">cpufetch</a>
+- Simple yet fancy CPU architecture fetching tool
+</summary>
+<img src="previews/cpufetch.png">
+</details>
+
 # F
 [freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch  
 
