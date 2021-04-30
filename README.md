@@ -60,6 +60,14 @@ A curation of cool system information fetches.
 </details>
 
 # F
+<details>
+<summary>
+<a href="https://github.com/6gk/fet.sh">fet.sh</a>
+- a fetch written in posix shell without any external commands
+</summary>
+<img src="previews/fet.sh.png">
+</details>
+
 [freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch  
 
 # J
