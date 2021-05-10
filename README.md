@@ -67,6 +67,13 @@ A curation of cool system information fetches.
 </summary>
 <img src="previews/fet.sh.png">
 </details>
+<details>
+<summary>
+<a href="https://github.com/irevenko/ferris-fetch">ferris-fetch</a>
+- A system information tool for Rustaceans
+</summary>
+<img src="previews/ferris-fetch.png" width="650">
+</details>
 
 [freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch  
 
