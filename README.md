@@ -62,6 +62,13 @@ A curation of cool system information fetches.
 # F
 <details>
 <summary>
+<a href="https://github.com/irevenko/ferris-fetch">ferris-fetch</a>
+- A system information tool for Rustaceans
+</summary>
+<img src="previews/ferris-fetch.png" width="650">
+</details>
+<details>
+<summary>
 <a href="https://github.com/6gk/fet.sh">fet.sh</a>
 - a fetch written in posix shell without any external commands
 </summary>
