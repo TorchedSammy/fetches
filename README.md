@@ -112,6 +112,7 @@ A curation of cool system information fetches.
 
 # R
 [rsfetch](https://github.com/Phate6660/rsfetch) - Fast (~20ms execution time) and somewhat(?) minimal fetch program written in Rust.  
+[rxfetch](https://github.com/Mangeshrex/rxfetch) - A Cute and Funny looking minimal fetch program in Bash. 
 
 # S
 <details>
