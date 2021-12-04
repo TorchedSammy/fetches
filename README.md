@@ -108,8 +108,9 @@ A curation of cool system information fetches.
 </summary>
 <i>no im not trans, the colors are really nice tho</i>
 <img src="previews/pridefetch.png">
-</details>  
-[pythonfetch]( https://github.com/beucismis/pythonfetch) - Python and system information command-line tool  
+</details>
+
+[pythonfetch](https://github.com/beucismis/pythonfetch) - Python and system information command-line tool  
 
 # R
 [rsfetch](https://github.com/Phate6660/rsfetch) - Fast (~20ms execution time) and somewhat(?) minimal fetch program written in Rust.  
