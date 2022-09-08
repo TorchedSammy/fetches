@@ -94,6 +94,13 @@ A curation of cool system information fetches.
 </summary>
 <img src="previews/mfetch.png">
 </details>
+<details>
+<summary>
+<a href="https://github.com/TechWiz-3/mfetch-macos">mfetch-macos</a>
+- Minimalist fetch (forked and modified for Mac OS)
+</summary>
+<img src="previews/mfetch-macos.png">
+</details>
 
 # N
 [Neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+  
