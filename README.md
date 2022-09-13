@@ -5,20 +5,20 @@ A curation of cool system information fetches.
 <details>
 <summary>
 <a href="https://github.com/13-CF/afetch">13-CF/afetch</a>
-- Simple system info written in C 
+- Simple system info written in C
 </summary>
 <img src="previews/afetch.png">
 </details>
 <details>
 <summary>
 <a href="https://github.com/sticky-tea/afetch">sticky-tea/afetch</a>
-- A command-line system information tool written in x86 assembly language 
+- A command-line system information tool written in x86 assembly language
 </summary>
 <img src="previews/sticky-tea-afetch.png">
 </details><details>
 <summary>
 <a href="https://github.com/vyxxr/afetch">vyxxr/afetch</a>
-- An alternative and POSIX system info for Unix-like operating systems based on ufetch 
+- An alternative and POSIX system info for Unix-like operating systems based on ufetch
 </summary>
 <img src="previews/vyxxr-afetch.png">
 </details>
@@ -41,7 +41,7 @@ A curation of cool system information fetches.
 <img src="previews/bitfetch.png">
 </details>
 
-[Bunnyfetch](https://github.com/Luvella/Bunnyfetch) - Tiny system info fetch utility.  
+[Bunnyfetch](https://github.com/Luvella/Bunnyfetch) - Tiny system info fetch utility.
 <details>
 <summary>
 <a href="https://github.com/Luvella/bunnyfetch.sh">bunnyfetch.sh</a>
@@ -75,7 +75,7 @@ A curation of cool system information fetches.
 <img src="previews/fet.sh.png">
 </details>
 
-[freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch  
+[freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
 
 # J
 <details>
@@ -84,6 +84,15 @@ A curation of cool system information fetches.
 - A minimal Linux fetch script
 </summary>
 <img src="previews/jfetch.png">
+</details>
+
+# L
+<details>
+<summary>
+<a href="https://github.com/LordOfTrident/lysfetch">lysfetch</a>
+- A system information fetch program written in lua
+</summary>
+<img src="previews/lysfetch.png">
 </details>
 
 # M
@@ -103,8 +112,8 @@ A curation of cool system information fetches.
 </details>
 
 # N
-[Neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+  
-[NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX \*nix fetch script using Nerdfonts  
+[Neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+
+[NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX \*nix fetch script using Nerdfonts
 
 # P
 [pfetch](https://github.com/dylanaraps/pfetch) - A pretty system information tool written in POSIX sh.
@@ -117,11 +126,11 @@ A curation of cool system information fetches.
 <img src="previews/pridefetch.png">
 </details>
 
-[pythonfetch](https://github.com/beucismis/pythonfetch) - Python and system information command-line tool  
+[pythonfetch](https://github.com/beucismis/pythonfetch) - Python and system information command-line tool
 
 # R
-[rsfetch](https://github.com/Phate6660/rsfetch) - Fast (~20ms execution time) and somewhat(?) minimal fetch program written in Rust.  
-[rxfetch](https://github.com/Mangeshrex/rxfetch) - A Cute and Funny looking minimal fetch program in Bash. 
+[rsfetch](https://github.com/Phate6660/rsfetch) - Fast (~20ms execution time) and somewhat(?) minimal fetch program written in Rust.
+[rxfetch](https://github.com/Mangeshrex/rxfetch) - A Cute and Funny looking minimal fetch program in Bash.
 
 # S
 <details>
@@ -142,7 +151,7 @@ A curation of cool system information fetches.
 </details>
 
 # W
-[winfetch](https://github.com/lptstr/winfetch) - A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.  
+[winfetch](https://github.com/lptstr/winfetch) - A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 
 # Y
 <details>
@@ -155,11 +164,11 @@ A curation of cool system information fetches.
 
 # Contribution
 You can help grow this list! Just create a simple issue to
-request a fetch (possibly yours) to be on this list.  
+request a fetch (possibly yours) to be on this list.
 
 The only requirements are fairly easy and clear instructions on the
 README, and to function properly (if not specific to an OS)
-Or you can choose to PR it.  
+Or you can choose to PR it.
 
 You can also choose to add previews to fetches that don't have them.
 
